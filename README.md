@@ -45,7 +45,7 @@ python HVC-VAC.py -f ./Authentication_test/inputs/fingerprint.png -s ./Authentic
 
 ## Authors
 
-* **SaKaTetsu** - *Initial work* - [SaKaTetsu](https://github.com/SaKaTetsu)
+* **SaChiaChe** - *Initial work* - [SaChiaChe](https://github.com/SaChiaChe)
 
 ## References
 
